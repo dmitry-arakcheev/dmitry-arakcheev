@@ -6,13 +6,14 @@
 
 **Стек**
 
+- Excel, Google Sheets (сводные таблицы, формулы, ВПР);
 - Python (Pandas, NumPy, Seaborn, Matplotlib);
 - SQL (PostgreSQL, MySQL, ClickHouse);
-- Статистика и A/B-тесты;
-- Визуализация данных (Apache Superset, Redash);
+- Визуализация данных (Apache Superset, Redash, Power BI);
+- MS Office (Word, Power Point, Visio, Outlook);
 - Git;
 - Airflow, ETL;
-- MS Office (Word, Excel, Power Point, Visio).
+- Статистика и A/B-тесты.
 
 ______________________________________________________________________________
 
@@ -24,14 +25,14 @@ In data analytics I am attracted by the huge scope for study and work. There is 
 
 **STACK**
 
+- Excel, Google Sheets (Pivot table, VLOOKUP, functions);
 - Python (Pandas, NumPy, Seaborn, Matplotlib);
 - SQL (PostgreSQL, MySQL, ClickHouse);
-- A/B testing and statistics;
-- Data visualization (Apache Superset, Redash);
+- Data visualization (Apache Superset, Redash, Power BI);
+- MS Office (Word, Power Point, Visio, Outlook);
 - Git;
 - Airflow, ETL;
-- MS Office (Word, Excel, Power Point, Visio);
-
+- A/B testing and statistics.
 
 
 <!--
