@@ -7,7 +7,7 @@
 **Стек**
 
 - Excel, Google Sheets (сводные таблицы, формулы, ВПР);
-- Python (Pandas, NumPy, Seaborn, Matplotlib);
+- Python (Pandas, NumPy, Seaborn, Matplotlib, sklearn);
 - SQL (PostgreSQL, MySQL, ClickHouse);
 - Визуализация данных (Apache Superset, Redash, Power BI);
 - MS Office (Word, Power Point, Visio, Outlook);
@@ -27,7 +27,7 @@ In data analytics I am attracted by the huge scope for study and work. There is 
 **STACK**
 
 - Excel, Google Sheets (Pivot table, VLOOKUP, functions);
-- Python (Pandas, NumPy, Seaborn, Matplotlib);
+- Python (Pandas, NumPy, Seaborn, Matplotlib, sklearn);
 - SQL (PostgreSQL, MySQL, ClickHouse);
 - Data visualization (Apache Superset, Redash, Power BI);
 - MS Office (Word, Power Point, Visio, Outlook);
